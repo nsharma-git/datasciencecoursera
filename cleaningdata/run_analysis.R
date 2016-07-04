@@ -62,4 +62,8 @@ write.table(casted, file = "tidydataset.csv", row.names = FALSE)
 
 # Remove all used variables from workbook
 rm(activity_labels, features, merged_activity_set, merged_data_set, casted, merged_subjects,
+<<<<<<< HEAD
    molten_data_set, test_subjects, train_subjects)
+=======
+   molten_data_set, test_subjects, train_subjects)
+>>>>>>> c391eee2a3e9462eb8d7e921af8e9fac59d21ce1
