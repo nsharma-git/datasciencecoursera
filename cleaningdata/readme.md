@@ -9,7 +9,7 @@ This sctips does following -
 For datails of variables and operations, please refer to CookBook.md
 
 To run the script, update the base_dir with the absolute / relative path for base_dir where the directory
-"UCI HAR Dataset" where all data resides. 
+"Samsung" where all data resides. 
 
 Once done we can simply run the script and if everything goes fine, it will produce the oputput in the current working directory where the script is.
 
